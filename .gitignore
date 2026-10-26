@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+!.env.example
+Password
+
+# Dependencies
+node_modules/
+
+# JetBrains
+.idea/
+
+# Logs and temporary files
+*.log
+coverage/
